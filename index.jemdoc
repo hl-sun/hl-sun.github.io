@@ -1,9 +1,9 @@
-# jemdoc: menu{MENU}{index.html}  
+# jemdoc: menu{MENU}{index.html}, nofooter
 ==Hailong Sun
 
 ~~~
 {}{img_left}{bio.jpg}{alt text}{240}{240}
-PhD Candidate \n
+PhD \n
 [http://iora.nus.edu.sg/ Institute of Operations Research and Analytics (IORA)] \n
 [http://nus.edu.sg/ National University of Singapore (NUS)]\n
 
@@ -12,35 +12,39 @@ Innovation 4.0 \n
 04-01, 3 Research Link, Singapore 117602 \n
 Email: hailong.sun \[at\] u \[dot\] nus \[dot\] edu
 
-[cv_HailongSun.pdf CV] ~~ [https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4Cz-urEpqy0RHxdG08HA4i5PI28ftHf_sBS8rsoo46riiP62sWfayAqf9niIfXUJ5W0zB2iKrHBRjtOy__7V4GeiS733B3IRq56B9FUVoo58O0KhQ&user=ecZBKYIAAAAJ Google Scholar]
+#[cv_HailongSun.pdf CV] ~~ 
+
+[https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4Cz-urEpqy0RHxdG08HA4i5PI28ftHf_sBS8rsoo46riiP62sWfayAqf9niIfXUJ5W0zB2iKrHBRjtOy__7V4GeiS733B3IRq56B9FUVoo58O0KhQ&user=ecZBKYIAAAAJ Google Scholar]
 ~~~
 
 == About Me
-I am a PhD candidate in the Institute of Operations Research and Analytics at National University of Singapore. I am jointly advised by [https://www.teochungpiaw.com/ Chung Piaw Teo] and [https://sites.google.com/site/lixiaobohome/home Xiaobo Li
-]. My research interests lie in data-driven decision making and its applications to pricing and revenue management problems. My current research focuses on bundle design and pricing problems. This line of research is mainly motivated by collaborations with an airline company. I am also interested in applying Data Analytics to solve operational challenges related to energy, sustainability and social good. Prior to graduate study, I spent three years working as a Design Engineer in the construction industry.
+I received the PhD degree in Operations Research and Analytics from the Institute of Operations Research and Analytics at National University of Singapore in 2022. I was jointly advised by [https://www.teochungpiaw.com/ Chung Piaw Teo] and [https://sites.google.com/site/lixiaobohome/home Xiaobo Li]. I received the M.S. degree in Management Science and Engineering from South China University of Technology, and the B.Eng. degree in Environmental Engineering from the Ocean University of China. Prior to graduate study, I spent three years working as a Design Engineer in the construction industry.
+
+My research interests lie in data-driven decision making and its applications to pricing and revenue management problems. My current research focuses on the design and pricing of product bundles and ancillary services under complex customer choice behavior. This line of research is mainly motivated by collaborations with an airline company. I am also interested in applying Data Analytics to solve operational challenges related to energy, sustainability and social good. 
 
 In the summer of 2022, I will join the Antai College of Economics and Management at Shanghai Jiao Tong University as an Assistant Professor of Management Science.
 
-== Research Interests
-- Stochastic and Robust Optimization
-- Data-driven Decision Making
-- Online Learning and Online Convex Optimization
-- Revenue Management and Pricing Analytics
-- Discrete Choice Modeling
+#== Research Interests
+#- Stochastic and Robust Optimization
+#- Data-driven Decision Making
+#- Online Learning and Online Convex Optimization
+#- Revenue Management and Pricing Analytics
+#- Analytics for Social Good
+#- Discrete Choice Modeling
 
-== Education
-- [http://nus.edu.sg/ National University of Singapore], Singapore \n
-  PhD Candidate in Operations Research, Aug. 2017 -- July. 2022 (expected) \n
-  Thesis: "Bundle Design and Pricing: Theory and Applications"
- \n
-  Advisors: [https://www.teochungpiaw.com/ Chung Piaw Teo] and [https://sites.google.com/site/lixiaobohome/home Xiaobo Li
-]
+#== Education
+#- [http://nus.edu.sg/ National University of Singapore], Singapore \n
+#  PhD Candidate in Operations Research, Aug. 2017 -- July. 2022 (expected) \n
+#  Thesis: "Bundle Design and Pricing: Theory and Applications"
+# \n
+#  Advisors: [https://www.teochungpiaw.com/ Chung Piaw Teo] and [https://sites.google.com/site/lixiaobohome/home #Xiaobo Li
+#]
 
-- [https://www.scut.edu.cn/en/ South China University of Technology], Guangzhou, China \n
-  M.Eng. in Management Science and Engineering, Sep. 2014 -- Jul. 2017
+#- [https://www.scut.edu.cn/en/ South China University of Technology], Guangzhou, China \n
+#  M.Eng. in Management Science and Engineering, Sep. 2014 -- Jul. 2017
 
-- [http://eweb.ouc.edu.cn/ Ocean University of China], Qingdao, China \n
-  B.Eng. in Environmental Engineering, Sep. 2007 -- Jun. 2011
+#- [http://eweb.ouc.edu.cn/ Ocean University of China], Qingdao, China \n
+#  B.Eng. in Environmental Engineering, Sep. 2007 -- Jun. 2011
 
 
 #== Professional Experience

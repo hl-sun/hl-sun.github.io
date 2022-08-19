@@ -1,10 +1,15 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
-==Publications
+== Research
 
-Note: * stands for alphabetical order.
+== Research Interests
+- Stochastic and Robust Optimization
+- Data-driven Decision Making
+- Online Learning and Online Convex Optimization
+- Revenue Management and Pricing Analytics
+- Analytics for Social Good
+- Discrete Choice Modeling
 
-
-== Journal Papers
+== Journal Publications
 . [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3426933 Convex Optimization for Bundle Size Pricing Problem] \n
 Xiaobo Li, *Hailong Sun** and Chung Piaw Teo \n
 /Management Science/, 2022
@@ -18,9 +23,11 @@ Under revision, 2021
 . [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095769 Product and Ancillary Pricing Optimization: Market Share Analytics via Perturbed Utility Model] \n
 Changchun Liu, Maoqi Liu, *Hailong Sun**, and Chung Piaw Teo \n
 Under review, 2021
-. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2867793 Robust Capacity Planning and Battery Charging Policy for Electric Vehicle Battery Swap Station] \n
-Bo Feng, Zuo-Jun Max Shen and *Hailong Sun**\n
-Under revision, 2021.
+
+#. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2867793 Robust Capacity Planning and Battery #Charging Policy for Electric Vehicle Battery Swap Station] \n
+#Bo Feng, Zuo-Jun Max Shen and *Hailong Sun**\n
+#Under revision, 2021.
+
 . Airline Fare Family Pricing under Cross Moment Model \n
 *Hailong Sun*, Changchun Liu, Maoqi Liu and Chung Piaw Teo, 2022
 
@@ -31,4 +38,7 @@ Xiaobo Li, *Hailong Sun** and Chung Piaw Teo \n
 
 == Work in Progress
 . Data-Driven SKU Rationalization for The Food Bank Singapore \n
-*Hailong Sun*, Victor Fernandez and Chung Piaw Teo, 2021
+Victor Fernandez, Peng Liu, *Hailong Sun** and Chung Piaw Teo, 2021
+
+
+Note: * stands for alphabetical order.
